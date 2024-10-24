@@ -9,7 +9,7 @@ int main()
 {
     say("hi");
     
-    cout << add(44,9) << endl;
+    cout << add(45,10) << endl;
 
     return 0;
 }
