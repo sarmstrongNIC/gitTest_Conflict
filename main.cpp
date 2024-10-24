@@ -7,10 +7,11 @@ int add(int a, int b);
 
 int main()
 {
-    say("hi");
+    say("hello");
     
-    cout << add(4,9) << endl;
+    cout << add(47,90) << endl;
 
+    cout << "test" << endl;
     return 0;
 }
 
